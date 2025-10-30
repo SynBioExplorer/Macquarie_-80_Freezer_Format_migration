@@ -1,0 +1,167 @@
+Column Name,Total Frequency (Sheets),Number of Files,Example Files (up to 3),Normalized Name
+Organism,716,42,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",organism
+Owner,708,43,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",owner
+Tube,708,41,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",tube
+Lab group,707,42,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",labgroup
+Biosafety #,706,41,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",biosafety#
+GMO? Yes/No,706,41,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",gmo?yes/no
+Sample information,699,43,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",sampleinformation
+Project information,662,41,"rack B6 -80C freezer 2.xlsx, rack B3 -80C freezer 2.xlsx, rack 2A -80C freezer 3.xlsx",projectinformation
+Comments,76,8,"rack C1 -80C freezer 2_LV.xlsx, rack 2A -80C freezer 3.xlsx, rack B2 -80C freezer 3_VictoriaBarja.xlsx",comments
+Marker,68,8,"rack C1 -80C freezer 2_LV.xlsx, rack 2A -80C freezer 3.xlsx, rack B2 -80C freezer 3_VictoriaBarja.xlsx",marker
+Tube number,52,6,"rack B2 -80C freezer 3_VictoriaBarja.xlsx, Rack C2 -80oC freezer 3-Dayane-Costa-Williams.xlsx, -80C freezer 1_rack D2_VictoriaBarja.xlsx",tubenumber
+Sequencing,37,7,"rack C1 -80C freezer 2_LV.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx, rack B2 -80C freezer 3_VictoriaBarja.xlsx",sequencing
+vector,37,3,"rack A1 -80C freezer 2.xlsx, rack A1 -80C freezer 3 .xlsx, RackB1 -80C Freezer 1.xlsx",vector
+Vector,25,4,"rack B5 -80C freezer 2.xlsx, rack A2 -80C freezer 2.xlsx, rack A1 -80C freezer 3 .xlsx",vector
+NLRD,20,8,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",nlrd
+Shelf,18,7,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",shelf
+Risk Group,18,7,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",riskgroup
+Project information/origin/plasmid from,17,1,rack B5 -80C freezer 2.xlsx,projectinformation/origin/plasmidfrom
+Name,16,2,"rack E2 -80C freezer 2.xlsx, Rack C3 -80C freezer3_JordiPerez.xlsx",name
+Date of congelation,16,1,rack B5 -80C freezer 2.xlsx,dateofcongelation
+Box position,14,7,"rack C1 -80C freezer 2_LV.xlsx, BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx",boxposition
+Rack Number,13,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",racknumber
+Label on Box,13,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",labelonbox
+Date lodged (dd/mm/yy),13,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",datelodged(dd/mm/yy)
+Box Row,13,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",boxrow
+Box Column,13,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",boxcolumn
+Date,13,3,"rack C1 -80C freezer 2_LV.xlsx, rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx, rack C2 -80C freezer 2.xlsx",date
+Freezer Location,12,5,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",freezerlocation
+Sample lodged by,12,5,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",samplelodgedby
+Contents,12,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",contents
+1,12,6,"rack 2C -80C freezer 3_ArturSawiki.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",1
+Strain,11,4,"-80 freezer 1_rack D1_EA&JP.xlsx, rack B2 -80C freezer 3_VictoriaBarja.xlsx, rack C2 -80C freezer 2.xlsx",strain
+PCR,10,2,"rack C1 -80C freezer 2_LV.xlsx, rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx",pcr
+Alias,10,1,rack E2 -80C freezer 2.xlsx,alias
+Box description,9,6,"BLANK TEMPLATE - PC2 Lab Sample Recording Template for -80 Freezers_May 2025.xlsx, -80C Freezers_1_Rack_D3_KM.csv.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",boxdescription
+Tube label,9,1,rack 2A -80C freezer 3.xlsx,tubelabel
+Box,7,3,"-80C freezer1 log_box level.xlsx, Rack C3 -80C freezer3_JordiPerez.xlsx, -80C freezer2 log_box level.xlsx",box
+Front of rack,7,5,"-80 freezer 1_rack D1_EA&JP.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",frontofrack
+5,7,5,"-80 freezer 1_rack D1_EA&JP.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",5
+9,7,5,"-80 freezer 1_rack D1_EA&JP.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",9
+13,7,5,"-80 freezer 1_rack D1_EA&JP.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",13
+17,7,5,"-80 freezer 1_rack D1_EA&JP.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",17
+Back of rack,7,5,"-80 freezer 1_rack D1_EA&JP.xlsx, -80C freezer1 log_box level.xlsx, -80C Freezer1 Rack B2 DanielPascoe.xlsx",backofrack
+Reference,7,2,"-80 freezer 1_rack D1_EA&JP.xlsx, rack E2 -80C freezer 2.xlsx",reference
+Genotyping|Sequencing,6,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,genotyping|sequencing
+Yes,6,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,yes
+Plasmid,6,1,-80 freezer 1_rack D1_EA&JP.xlsx,plasmid
+Date of sequencing (mini-prep + sequencing done from the same culture used for glycerol stock),6,1,rack B5 -80C freezer 2.xlsx,dateofsequencing(miniprep+sequencingdonefromthesamecultureusedforglycerolstock)
+Relevent genotype,6,1,rack E2 -80C freezer 2.xlsx,releventgenotype
+Comment,5,1,Rack C2 -80oC freezer 3-Dayane-Costa-Williams.xlsx,comment
+Freezer location,5,1,rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx,freezerlocation
+Rack number,5,1,rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx,racknumber
+Label on box,5,1,rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx,labelonbox
+Box location,5,1,rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx,boxlocation
+Exp ID,5,1,rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx,expid
+Additional comments,5,1,rack A4 -80C freezer 3_AfrinTalukder&VivianBonacker.xlsx,additionalcomments
+Number,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,number
+Gene,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,gene
+Gene Organism,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,geneorganism
+Resistances,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,resistances
+Additional Information,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,additionalinformation
+Origin,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,origin
+Position,5,1,Rack C3 -80C freezer3_JordiPerez.xlsx,position
+RG,5,2,"rack C2 -80C freezer 2.xlsx, Rack C3 -80C freezer3_JordiPerez.xlsx",rg
+A,5,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,a
+5201401062,4,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,5201401062
+Escherichia coli Top10 beta,4,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,escherichiacolitop10beta
+Sawicki,4,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,sawicki
+Briardo LLorente,4,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,briardollorente
+Cyro Label,4,1,-80 freezer 1_rack D1_EA&JP.xlsx,cyrolabel
+Source,4,1,-80 freezer 1_rack D1_EA&JP.xlsx,source
+Note,4,1,-80 freezer 1_rack D1_EA&JP.xlsx,note
+strain,4,1,rack C2 -80C freezer 2.xlsx,strain
+Antibiotics,4,1,rack C2 -80C freezer 2.xlsx,antibiotics
+Additional comment,4,1,rack C2 -80C freezer 2.xlsx,additionalcomment
+Genotype,4,1,rack D3 -80C freezer 2.xlsx,genotype
+Other information,4,1,rack E2 -80C freezer 2.xlsx,otherinformation
+Freezer,3,1,Rack C3 -80C freezer3_JordiPerez.xlsx,freezer
+Rack/Shelf,3,1,Rack C3 -80C freezer3_JordiPerez.xlsx,rack/shelf
+correct,3,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,correct
+Antibiotic Marker,3,1,-80 freezer 1_rack D1_EA&JP.xlsx,antibioticmarker
+Verification,3,1,-80 freezer 1_rack D1_EA&JP.xlsx,verification
+Related Accession Number,3,1,-80 freezer 1_rack D1_EA&JP.xlsx,relatedaccessionnumber
+Shelf/ Rack#,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",shelf/rack#
+Contains GMOs? (Yes/No),2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",containsgmos?(yes/no)
+A1,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a1
+A2,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a2
+A3,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a3
+A4,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a4
+A5,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a5
+A6,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a6
+A7,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a7
+A8,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a8
+A9,2,2,"-80C freezer1 log_box level.xlsx, -80C freezer2 log_box level.xlsx",a9
+Transformed/Empty,2,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,transformed/empty
+Transformed / Empty,2,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,transformed/empty
+Genotyping,2,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,genotyping
+RiskGroup,2,1,Rack C3 -80C freezer3_JordiPerez.xlsx,riskgroup
+Synechocystis sp. PCC 6803 NS3,2,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,synechocystissp.pcc6803ns3
+1.PilsMGHaCo,2,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,1.pilsmghaco
+DMSO stock,2,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,dmsostock
+Tube ID,2,1,-80 freezer 1_rack D1_EA&JP.xlsx,tubeid
+Marker yeast,2,1,-80 freezer 1_rack D1_EA&JP.xlsx,markeryeast
+Verified,2,1,-80 freezer 1_rack D1_EA&JP.xlsx,verified
+Auxotrophy,2,2,"rack C1 -80C freezer 2_LV.xlsx, -80 freezer 1_rack D1_EA&JP.xlsx",auxotrophy
+Resistence,2,1,rack C1 -80C freezer 2_LV.xlsx,resistence
+27.10.25,2,1,rack C2 -80C freezer 2.xlsx,27.10.25
+The ones  without specifications are all Amp resistance,2,1,rack C3 -80C freezer 2.xlsx,theoneswithoutspecificationsareallampresistance
+6B.1,1,1,Freezer allocations Walk-in freezer PC2 Synbio.xlsx,6b.1
+"Kein, Lucie, Farhad",1,1,Freezer allocations Walk-in freezer PC2 Synbio.xlsx,"kein,lucie,farhad"
+6B.2,1,1,Freezer allocations Walk-in freezer PC2 Synbio.xlsx,6b.2
+Camille,1,1,Freezer allocations Walk-in freezer PC2 Synbio.xlsx,camille
+6B.3,1,1,Freezer allocations Walk-in freezer PC2 Synbio.xlsx,6b.3
+Dominic S,1,1,Freezer allocations Walk-in freezer PC2 Synbio.xlsx,dominics
+OWNER,1,1,Rack 2A_-80 Freezer 3_ FP.xlsx,owner
+Code,1,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,code
+Characteristics,1,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,characteristics
+Culture conditions,1,1,rack B2 -80C freezer 3_VictoriaBarja.xlsx,cultureconditions
+Contain,1,1,Rack C3 -80C freezer3_JordiPerez.xlsx,contain
+state,1,1,Rack C3 -80C freezer3_JordiPerez.xlsx,state
+Sequencing result,1,1,"rack 2D -80C, freezer 3, 1st column SP.xlsx",sequencingresult
+Artur Sawicki,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,artursawicki
+Briardo's group,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,briardo'sgroup
+Biosafety pending,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,biosafetypending
+Synechocystis sp. PCC6803 (Syne6803),1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,synechocystissp.pcc6803(syne6803)
+DMSO Stock p560NS3 HPTPili#2,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,dmsostockp560ns3hptpili#2
+Full length HPT display,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,fulllengthhptdisplay
+pdon207AmpiHPTβ1.2a Escherichia coli Top10beta,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,pdon207ampihptβ1.2aescherichiacolitop10beta
+5201401059,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,5201401059
+Escherichia coli,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,escherichiacoli
+pET28a p15 HPT alpha 1.1 DH10 beta,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,pet28ap15hptalpha1.1dh10beta
+Kan,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,kan
+1.PilsMGHaCo b pDESTp560NS1,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,1.pilsmghacobpdestp560ns1
+1.PilsMGHaCo a pDESTp560NS3,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,1.pilsmghacoapdestp560ns3
+4,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,4
+BL21 DE3 plysS escherichia coli,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,bl21de3plyssescherichiacoli
+CAMr,1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,camr
+Competent cells (chemically),1,1,rack 2C -80C freezer 3_ArturSawiki.xlsx,competentcells(chemically)
+Marker bacteria,1,1,-80 freezer 1_rack D1_EA&JP.xlsx,markerbacteria
+Lab Group,1,1,-80C freezer1 log_box level.xlsx,labgroup
+Sequence,1,1,rack A3 -80C freezer 2 (SC).xlsx,sequence
+comments,1,1,rack C1 -80C freezer 2_LV.xlsx,comments
+Coments,1,1,rack C1 -80C freezer 2_LV.xlsx,coments
+EXEMPT,1,1,rack C1 -80C freezer 2_LV.xlsx,exempt
+Auxotrophy recovery,1,1,rack C1 -80C freezer 2_LV.xlsx,auxotrophyrecovery
+Lid label,1,1,rack C1 -80C freezer 2_LV.xlsx,lidlabel
+Sample info,1,1,rack C1 -80C freezer 2_LV.xlsx,sampleinfo
+KIT,1,1,rack C1 -80C freezer 2_LV.xlsx,kit
+Project info,1,1,rack C1 -80C freezer 2_LV.xlsx,projectinfo
+Culture condition (added by MAS),1,1,rack C2 -80C freezer 2.xlsx,culturecondition(addedbymas)
+Culture condition,1,1,rack C2 -80C freezer 2.xlsx,culturecondition
+Sequenced strains,1,1,rack C2 -80C freezer 2.xlsx,sequencedstrains
+green box ori yeast strains,1,1,rack C3 -80C freezer 2.xlsx,greenboxoriyeaststrains
+pink box pa tolerance / pa production pathway yeast strains,1,1,rack C3 -80C freezer 2.xlsx,pinkboxpatolerance/paproductionpathwayyeaststrains
+synxiv debugging yeast strains,1,1,rack C3 -80C freezer 2.xlsx,synxivdebuggingyeaststrains
+SYNXIV MINIMIZATION BOX 1 YEAST STRAINS,1,1,rack C3 -80C freezer 2.xlsx,synxivminimizationbox1yeaststrains
+yarroiwa &SYNXIV MINIMIZATION BOX 2 YEAST STRAINS,1,1,rack C3 -80C freezer 2.xlsx,yarroiwa&synxivminimizationbox2yeaststrains
+E.COLI orange BOX 1,1,1,rack C3 -80C freezer 2.xlsx,e.coliorangebox1
+E.COLI yellow BOX 2,1,1,rack C3 -80C freezer 2.xlsx,e.coliyellowbox2
+Key,1,1,rack E2 -80C freezer 2.xlsx,key
+intermediate plasmid/strain/reference,1,1,rack E2 -80C freezer 2.xlsx,intermediateplasmid/strain/reference
+100 = episomal,1,1,rack E2 -80C freezer 2.xlsx,100=episomal
+00 = no Aux marker,1,1,rack E2 -80C freezer 2.xlsx,00=noauxmarker
+0 = no Dominant marker,1,1,rack E2 -80C freezer 2.xlsx,0=nodominantmarker
+enzyme (on pMU-hph),1,1,rack E2 -80C freezer 2.xlsx,enzyme(onpmuhph)
+Class,1,1,rack E4 -80C freezer 2.xlsx,class

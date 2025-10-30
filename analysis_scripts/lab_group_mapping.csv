@@ -1,0 +1,19 @@
+Current Value,Frequency,Suggested Mapping,Confidence,Notes
+Ian Paulsen,1046056,Paulsen,High,Full name variation
+Paulsen,1251,Paulsen,High,Standard format
+PAULSEN,24,Paulsen,High,All caps variation
+paulsen,9,Paulsen,High,Lowercase variation
+Paulsen group,81,Paulsen,High,Group suffix
+Cain,56,Cain,High,Already standardized
+Jaschke lab group,162,Jaschke,High,Lab group suffix
+Jaschke lab,81,Jaschke,High,Lab suffix
+Jaschke group,40,Jaschke,High,Group suffix
+Briardo's group,529,Llorente,Medium,Assumed Briardo Llorente - needs confirmation
+Briardo's gruop,81,Llorente,Medium,Typo - needs confirmation
+AGF,67,???,Low,Australian Genome Foundry - which lab?
+Packer,2,???,Low,Unknown lab group
+PCR didn't work,1,REMOVE,High,Not a lab group - status note
+unsure if PCR is ok,1,REMOVE,High,Not a lab group - status note
+PCR ok,1,REMOVE,High,Not a lab group - status note
+sample thrown away,1,REMOVE,High,Not a lab group - status note
+Waiting for sequencing,1,REMOVE,High,Not a lab group - status note
